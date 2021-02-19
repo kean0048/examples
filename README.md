@@ -1,0 +1,6 @@
+# !/bin/bash
+
+#THIS JUST FOR TESTING, LOOK FOR ORIGE
+
+#WHO CAN HELP ME?
+
